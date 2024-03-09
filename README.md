@@ -4,7 +4,7 @@ Projeto Java Experience
 
 Bem-vindo ao PetConnect: a melhor Rede Social para seu Pets!
 
-Seu companheiro adorável merece mais do que apenas um cantinho em suas fotos pessoais - merece seu próprio espaço na internet! Apresentamos o PeTreinaConnect, a primeira rede social feita exclusivamente para os membros mais fofos de sua família: seus animais de estimação.
+Seu companheiro adorável merece mais do que apenas um cantinho em suas fotos pessoais - merece seu próprio espaço na internet! Apresentamos o Petconnect, a primeira rede social feita exclusivamente para os membros mais fofos de sua família: seus animais de estimação.
 
 No PetConnect, não é apenas você quem compartilha as aventuras e momentos especiais. Cada um de seus animais de estimação terá sua própria voz na comunidade online. Você pode criar um perfil para cada um deles, permitindo que eles sejam os autores de suas próprias postagens, compartilhando suas travessuras, conquistas e momentos adoráveis diretamente com amigos e seguidores.
 
